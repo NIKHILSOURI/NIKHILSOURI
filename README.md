@@ -145,19 +145,7 @@ Most days I’m somewhere between **C++ performance**, **Python tooling**, and *
 
 ---
 
-## 🐍 Contribution Galaxy
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/NIKHILSOURI/NIKHILSOURI/output/github-contribution-grid-snake.svg)
-
-</div>
-
-> *(To enable this snake animation, follow one of the many “github contribution snake” tutorials and set the workflow to output to `output/github-contribution-grid-snake.svg`.)*
-
----
-
-<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=NIKHILSOURI&icon=2&color=7)](https://visitcount.itsvg.in)
 
