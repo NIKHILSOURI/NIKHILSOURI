@@ -1,13 +1,12 @@
-<!-- GALAXY THEME PROFILE README FOR @NIKHILSOURI -->
+<!-- 🌌 GALAXY THEME PROFILE README FOR @NIKHILSOURI -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="Coding gif"/>
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Yalamati%20Nikhil%20Souri&fontSize=40&fontAlignY=35&desc=Backend%20%7C%20DevOps%20%7C%20AI%20%26%20Computer%20Vision&descSize=16&descAlignY=60&animation=fadeIn&fontColor=FFFFFF" alt="header"/>
 
-### 🌌 Hey, I’m **Nikhil Souri**  
-Backend & DevOps • AI • Computer Vision
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+fast+backends+%26+cloud+pipelines;Automating+everything+that+shouldn't+be+done+twice;Living+between+C%2B%2B+performance+and+Python+automation)](https://git.io/typing-svg)
+<!-- Typing SVG (fixed & extended) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2800&pause=900&color=BC8CFF&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+DevOps+Enthusiast;Building+fast+backends+%26+cloud+pipelines;Automating+everything+that+shouldn't+be+done+twice;Living+between+C%2B%2B+performance+and+Python+automation;Always+shipping%2C+always+learning)](https://github.com/NIKHILSOURI)
 
 </div>
 
@@ -63,7 +62,7 @@ Most days I’m somewhere between **C++ performance**, **Python tooling**, and *
 
 ---
 
-## 🛠 Tech Stack (Galaxy Load-Out)
+## 🛠 Tech Stack – Galaxy Load-Out
 
 <div align="center">
 
@@ -111,26 +110,56 @@ Most days I’m somewhere between **C++ performance**, **Python tooling**, and *
 
 ## 🌠 Featured Projects
 
-> 🔗 *Click the project name to view the repo.*
+> 🔭 *Click to explore the constellations of my work.*
 
-- **[Blink-Based Cognitive Load Detection](https://github.com/NIKHILSOURI/Blink-Detection-in-Noisy-Environments)**  
-  Lightweight EAR-based pipeline using **MediaPipe + OpenCV** to analyze blink behaviour under noisy visual conditions.
+<details>
+<summary><b>🧠 Blink-Based Cognitive Load Detection</b></summary>
 
-- **[AI-Powered Queue Management & Crowd Flow](https://github.com/NIKHILSOURI/AI-Powered-Queue-Management)**  
-  Real-time **computer vision + microservices** system for queue analytics with Dockerized services on the cloud.
+- Lightweight EAR-based pipeline using **MediaPipe + OpenCV**
+- Evaluates blink behavior under noisy visual conditions  
+- Repo: 👉 <https://github.com/NIKHILSOURI/Blink-Detection-in-Noisy-Environments>
 
-- **[DevOps Mini Project – ML Inference CI/CD](https://github.com/NIKHILSOURI/DevOps-Mini-Project-)**  
-  End-to-end **Docker + Jenkins** pipeline deploying ML inference to **AWS EC2**.
+</details>
 
-- **[Faculty LMS / Leave Portal](https://github.com/NIKHILSOURI/leave_system)**  
-  Full-stack leave & attendance portal used in an academic setting.
+<details>
+<summary><b>📹 AI-Powered Queue Management & Crowd Flow</b></summary>
 
-- **[Obstacle Course – UE5 Game](https://github.com/NIKHILSOURI/ObstacleCourse)**  
-  3D platformer built in **Unreal Engine 5** with C++ + Blueprints.
+- Real-time **computer vision + microservices** system  
+- Dockerized services & cloud deployment  
+- Repo: 👉 <https://github.com/NIKHILSOURI/AI-Powered-Queue-Management>
+
+</details>
+
+<details>
+<summary><b>⚙️ DevOps Mini Project – ML Inference CI/CD</b></summary>
+
+- **Docker + Jenkins** pipeline deploying ML inference to **AWS EC2**  
+- Automated build–test–deploy flow  
+- Repo: 👉 <https://github.com/NIKHILSOURI/DevOps-Mini-Project->
+
+</details>
+
+<details>
+<summary><b>🏫 Faculty LMS / Leave Portal</b></summary>
+
+- Full-stack portal for faculty leave & attendance  
+- Built with web stack + database backend  
+- Repo: 👉 <https://github.com/NIKHILSOURI/leave_system>
+
+</details>
+
+<details>
+<summary><b>🎮 Obstacle Course – UE5 Game</b></summary>
+
+- 3D platformer built in **Unreal Engine 5** with C++ + Blueprints  
+- Moving platforms, hazards, checkpoints  
+- Repo: 👉 <https://github.com/NIKHILSOURI/ObstacleCourse>
+
+</details>
 
 ---
 
-## 📊 GitHub Stats (Galaxy Mode)
+## 📊 GitHub Stats – Space View
 
 <div align="center">
 
@@ -145,7 +174,29 @@ Most days I’m somewhere between **C++ performance**, **Python tooling**, and *
 
 ---
 
+## 🌌 Activity Nebula
 
+<div align="center">
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKHILSOURI&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Galaxy
+
+<div align="center">
+
+<!-- NOTE: set up a snake workflow in your repo to generate this file -->
+<img src="https://raw.githubusercontent.com/NIKHILSOURI/NIKHILSOURI/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=NIKHILSOURI&icon=2&color=7)](https://visitcount.itsvg.in)
 
