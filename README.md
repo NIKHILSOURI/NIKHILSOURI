@@ -1,8 +1,4 @@
 <!-- 🌌 GALAXY THEME PROFILE README FOR @NIKHILSOURI -->
-
-<div align="center">
-
-<!-- Animated wave header -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Yalamati%20Nikhil%20Souri&fontSize=40&fontAlignY=35&color=0:0f0c29,50:302b63,100:8A2BE2&fontColor=ffffff&desc=Backend%20%7C%20DevOps%20%7C%20AI%20%26%20Computer%20Vision&descSize=16&descAlignY=60&animation=twinkling"
@@ -10,10 +6,12 @@
   />
 </p>
 
-<!-- Typing SVG (fixed & extended) -->
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2800&pause=900&color=BC8CFF&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+DevOps+Enthusiast;Building+fast+backends+%26+cloud+pipelines;Automating+everything+that+shouldn't+be+done+twice;Living+between+C%2B%2B+performance+and+Python+automation;Always+shipping%2C+always+learning)](https://github.com/NIKHILSOURI)
 
 </div>
+
 
 ---
 
