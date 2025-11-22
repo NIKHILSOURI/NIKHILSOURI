@@ -1,10 +1,8 @@
 <!-- 🌌 GALAXY THEME PROFILE README FOR @NIKHILSOURI -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Yalamati%20Nikhil%20Souri&fontSize=40&fontColor=FFFFFF"
-    alt="Yalamati Nikhil Souri - Header"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=230&section=header&text=Yalamati%20Nikhil%20Souri&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
+
 
 
 <div align="center">
