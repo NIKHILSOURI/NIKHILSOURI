@@ -1,18 +1,166 @@
-# 💫 About Me:
-🚀 About Me<br><br>Hey! I’m Nikhil Souri, a backend-focused developer who loves building fast, scalable systems and automating everything that shouldn’t be done twice. I live somewhere between C++ performance, Python automation, and cloud DevOps pipelines — basically where all the fun stuff happens.
+<!-- GALAXY THEME PROFILE README FOR @NIKHILSOURI -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NIKHIL-SOURI) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-souri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mymedia.yns@gmail.com) 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="Coding gif"/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NIKHILSOURI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NIKHILSOURI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHILSOURI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🌌 Hey, I’m **Nikhil Souri**  
+Backend & DevOps • AI • Computer Vision
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+fast+backends+%26+cloud+pipelines;Automating+everything+that+shouldn't+be+done+twice;Living+between+C%2B%2B+performance+and+Python+automation)](https://git.io/typing-svg)
+
+</div>
 
 ---
+
+## 💫 About Me
+
+Hey! I’m **Nikhil**, a backend-focused developer who loves building **fast, scalable systems** and **automation pipelines**.  
+Most days I’m somewhere between **C++ performance**, **Python tooling**, and **Cloud/DevOps** — basically where all the fun bugs live.
+
+- 🔭 **Currently working on**
+  - Real-time **AI + Cloud** systems (computer vision, microservices, distributed pipelines)
+  - Blink-based **cognitive load detection** research
+  - Polishing my portfolio & DevOps workflows for upcoming internships
+
+- 👯 **Looking to collaborate on**
+  - Backend / API-heavy products
+  - AI/ML systems that need solid engineering
+  - DevOps automation: CI/CD, Docker, infra as code
+
+- 🤝 **Need help with**
+  - Smarter **AWS cost optimization**
+  - Auto-scaling, observability & infra monitoring
+  - Making real-time CV pipelines ultra-robust
+
+- 🌱 **Currently learning**
+  - Deep AWS internals (**EC2**, **Lambda**, networking)
+  - Advanced **Docker + Jenkins** CI/CD patterns
+  - Distributed systems design & fault tolerance
+
+- 💬 **Ask me about**
+  - Backend dev (Python, Node.js, C++)
+  - REST APIs, microservices, queues, caching
+  - DevOps • CI/CD • Docker • Linux • Jenkins
+  - Computer Vision (OpenCV, MediaPipe, YOLO)
+  - How to survive debugging at **1% battery**
+
+- ⚡ **Fun fact**  
+  I break things for a living — and fix them **before anyone notices** 😎
+
+---
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-souri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mymedia.yns@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_souri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://nikhilsouri.github.io)
+
+</div>
+
+---
+
+## 🛠 Tech Stack (Galaxy Load-Out)
+
+<div align="center">
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Web / Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🧠 AI / CV & Data
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+</div>
+
+---
+
+## 🌠 Featured Projects
+
+> 🔗 *Click the project name to view the repo.*
+
+- **[Blink-Based Cognitive Load Detection](https://github.com/NIKHILSOURI/Blink-Detection-in-Noisy-Environments)**  
+  Lightweight EAR-based pipeline using **MediaPipe + OpenCV** to analyze blink behaviour under noisy visual conditions.
+
+- **[AI-Powered Queue Management & Crowd Flow](https://github.com/NIKHILSOURI/AI-Powered-Queue-Management)**  
+  Real-time **computer vision + microservices** system for queue analytics with Dockerized services on the cloud.
+
+- **[DevOps Mini Project – ML Inference CI/CD](https://github.com/NIKHILSOURI/DevOps-Mini-Project-)**  
+  End-to-end **Docker + Jenkins** pipeline deploying ML inference to **AWS EC2**.
+
+- **[Faculty LMS / Leave Portal](https://github.com/NIKHILSOURI/leave_system)**  
+  Full-stack leave & attendance portal used in an academic setting.
+
+- **[Obstacle Course – UE5 Game](https://github.com/NIKHILSOURI/ObstacleCourse)**  
+  3D platformer built in **Unreal Engine 5** with C++ + Blueprints.
+
+---
+
+## 📊 GitHub Stats (Galaxy Mode)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NIKHILSOURI&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="170" alt="GitHub stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=NIKHILSOURI&theme=tokyonight&hide_border=false" height="170" alt="GitHub streak stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHILSOURI&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" height="160" alt="Top languages" />
+
+</div>
+
+---
+
+## 🐍 Contribution Galaxy
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/NIKHILSOURI/NIKHILSOURI/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> *(To enable this snake animation, follow one of the many “github contribution snake” tutorials and set the workflow to output to `output/github-contribution-grid-snake.svg`.)*
+
+---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=NIKHILSOURI&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+✨ *Made with a lot of coffee, late-night commits, and a tiny bit of chaos.* ✨  
+
+</div>
