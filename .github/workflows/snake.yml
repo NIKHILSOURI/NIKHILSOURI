@@ -1,5 +1,9 @@
 name: Generate Snake
 
+# 👇 give the GitHub token write access to push to the repo
+permissions:
+  contents: write
+
 on:
   # Run every day at 00:00 UTC
   schedule:
@@ -8,7 +12,7 @@ on:
   # Allow manual run
   workflow_dispatch:
 
-  # Also run when README / workflow changes
+  # Also run on changes to main
   push:
     branches:
       - main
